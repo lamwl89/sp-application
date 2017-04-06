@@ -1,0 +1,23 @@
+--------------------------------------------------
+
+Accessing the program code
+
+Steps to access the program code:
+1. Select folder of application
+2. Open the file titled Program.cs
+
+--------------------------------------------------
+
+Running the application
+
+Steps to run the application:
+1. Select folder of application
+2. Select bin
+3. Select Debug
+4. Open the file ending with .exe
+
+Example to run ApplicationQ1:
+1. Select ApplicationQ1 folder
+2. Select bin folder
+3. Select Debug folder
+4. Open ApplicationQ1.exe

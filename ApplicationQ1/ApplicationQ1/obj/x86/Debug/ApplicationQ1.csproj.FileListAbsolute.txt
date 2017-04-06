@@ -1,0 +1,4 @@
+C:\Users\Wei Ling\Documents\Visual Studio 2010\Projects\ApplicationQ1\ApplicationQ1\bin\Debug\ApplicationQ1.exe
+C:\Users\Wei Ling\Documents\Visual Studio 2010\Projects\ApplicationQ1\ApplicationQ1\bin\Debug\ApplicationQ1.pdb
+C:\Users\Wei Ling\Documents\Visual Studio 2010\Projects\ApplicationQ1\ApplicationQ1\obj\x86\Debug\ApplicationQ1.exe
+C:\Users\Wei Ling\Documents\Visual Studio 2010\Projects\ApplicationQ1\ApplicationQ1\obj\x86\Debug\ApplicationQ1.pdb
